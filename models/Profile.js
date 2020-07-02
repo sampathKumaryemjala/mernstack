@@ -25,11 +25,11 @@ const ProfileSchema = new mongoose.Schema({
         required: true
     },
     bio: {
-        type: [String]
+        type: String
 
     },
     githubusername: {
-        type: [String]
+        type: String
     },
     experience: [
         {
