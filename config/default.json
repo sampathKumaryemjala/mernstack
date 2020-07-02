@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://127.0.0.1:27017/mernstack",
-  "jwtSecret": "myJsonSecret"
+  "jwtSecret": "myJsonSecret",
+  "githubClientId": "a4d7a966b32be7c616f8",
+  "githubSecret": "a5c6bcc3bd5569d7b2cdec04263962c11117ff2a"
 }
